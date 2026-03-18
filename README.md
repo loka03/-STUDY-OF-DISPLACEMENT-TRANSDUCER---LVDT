@@ -1,7 +1,7 @@
 [# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
-## Name: AMRITHA VARSHINI M 
-## Reg No: 212224250002
+## Name: Lokeshwari M 
+## Reg No: 212224080029
 
 ## Aim:
 To study the operation of LVDT- Linear Variable Differential Transformer.
